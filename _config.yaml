@@ -1,12 +1,12 @@
 # site properties and page defaults
 title: 齐奇战队
 subtitle: 
-description: 齐心协力  创造奇迹
+description:   齐心协力  创造奇迹
 header: images/background.jpg
 header-video: images/bgvideo.mp4
 footer: images/background.jpg
 proofer: false
-slogan: 一往无前华科行，气壮山河狼牙名
+slogan:   齐心协力  创造奇迹
 # site social media and other links
 links:
   email: contact@qq.com
